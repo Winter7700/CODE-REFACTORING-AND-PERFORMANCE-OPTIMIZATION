@@ -1,3 +1,5 @@
+# CODE REFRACTING AND PERFORMANCE OPTIMIZATION
+
 *COMPANY*: CODTECH IT SOLUTIONS
 
 *NAME*: SANKET SAVLERAM HOLKAR
@@ -141,3 +143,9 @@ Overall, the project was a success and is now ready for real-world usage or furt
 ✅ Working demo via index.html
 
 ✅ This Report
+
+##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/4e8bf483-b0da-45fd-af34-2a3d1bff9647)
+
+![Image](https://github.com/user-attachments/assets/94797a1a-3dc5-4d84-ad26-f21378dbdd4f)
